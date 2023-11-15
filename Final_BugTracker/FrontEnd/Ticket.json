@@ -1,0 +1,36 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "title": "Missing HDMI cable.",
+      "description": "My monitor will not connect without a HDMI cable and I cannot work.",
+      "priority": "High",
+      "name": "John Doe",
+      "duedate": "10/15/2023"
+    },
+    {
+      "id": 2,
+      "title": "Computer not working",
+      "description": "Computer having issues turning on.",
+      "priority": "Medium",
+      "name": "Jane Smith",
+      "duedate": "09/20/2023"
+    },
+    {
+      "id": 3,
+      "title": "Monitor is on fire.",
+      "description": "My monitor has smoke coming from it.",
+      "priority": "High",
+      "name": "Bob Johnson",
+      "duedate": "09/05/2023"
+    },
+    {
+      "title": "Need a new laptop",
+      "description": "My laptop is dead.",
+      "priority": "low",
+      "name": "El Liza",
+      "duedate": "2023-10-24",
+      "id": 4
+    }
+  ]
+}
